@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github repo]()
-- Live Site URL: [live site]()
+- Solution URL: [github repo](https://github.com/Nabster2010/Project-tracking-intro-component)
+- Live Site URL: [live site](https://timely-cheesecake-5b7a5c.netlify.app/)
 
 ### Built with
 
